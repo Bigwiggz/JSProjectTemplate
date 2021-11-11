@@ -1,1 +1,3 @@
-# Javascript: 0 to 100
+# Javascript Project Display Template:
+
+This is a template designed to display projects
